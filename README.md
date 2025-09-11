@@ -1,3 +1,3 @@
 # rsschool-cv
-https://trupodel-evg.github.io/rsschool-cv/cv
+https://trupodel-evg.github.io/rsschool-cv/
 It's my CV
